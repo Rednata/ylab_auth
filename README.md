@@ -2,3 +2,5 @@
 Задание выполнено на JS.
 
 Используемый сервер для отправки запроса 'reqres.in'
+
+Deploy:  https://rednata.github.io/ylab_auth/
